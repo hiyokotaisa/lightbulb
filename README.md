@@ -1,14 +1,14 @@
 # Ansible Lightbulb
 
-The Ansible Lightbulb project is an effort to provide a content toolkit and educational reference for effectively communicating and teaching Ansible topics.
+Ansible Lightbulb プロジェクトは、Ansibleの教育およびコミュニケーションにおいて、効率的なツールキットおよびリファレンスを提供することを目的としています。
 
-Lightbulb began life as the content that supported Ansible's training program before it joined the Red Hat family focused solely on Linux server automation.
+Lightbulbは、Linuxサーバーの自動化に特化したAnsibleのトレーニングプログラムとして、AnsibleがRed Hatファミリーに参加する前に誕生しました。
 
-This content is now taking on a new life as a multi-purpose toolkit for effectively demonstrating Ansible's capabilities or providing informal workshop training in various forms -- instructor-led, hands-on or self-paced.
+現在では、Ansibleのデモンストレーションや多種多様な非公式トレーニング(インストラクターによる指導、ハンズオン、自己学習)向けの多目的なツールキットとして生まれ変わりました。
 
-Over time Lightbulb will be expanded to include advanced and developer topics in addition to expanding beyond linux server automation and into Windows and network automation.
+Lightbulbは、従来のLinuxサーバーの自動化だけに留まらず、Windowsやネットワークの自動化も含めた発展的で開発者向けのトピックも扱います。
 
-To support these objectives, the project provides a lab provisioner tool for creating an environment to present and work with Lightbulb content.
+これらの目的を達成するために、本プロジェクトではLightbulbのコンテンツを実行する環境構築のためのlab provisioner toolを提供しています。
 
 ## What's Provided
 
