@@ -60,19 +60,19 @@ Ansible Wayとその哲学に基づき、Lightbulbは可能な限りシンプル
 * PuTTY や Mac OSX TerminalなどのSSHクライアント
 * AWSアカウントもしくはローカルなVagrant環境
 
-### Assumed Knowledge
+### 最低限の知識
 
-For hands-on or self-paced training, students should have working knowledge of using SSH and command line shell (BASH). The ability to SSH from their personal laptop to a lab environment hosted in a public cloud can also be required based on the format and presentation of the context.
+ハンズオンもしくは自己学習の際には、学習者はSSHおよびshell(BASH)の知識があり、自身のノートPCからパブリッククラウドにたいしてのSSH接続ができることが望ましいです。
 
-For demos and instructor-led exercises, conceptual understanding of linux system admin, DevOps and distributed application architecture is all that is required.
+デモやインストラクターによるトレーニングの際には、Linuxシステム管理、DevOps、および分散型アプリケーションアーキテクチャに対する理解が必要です。
 
-### Reference
+### リファレンス
 
 * [Ansible Documentation](http://docs.ansible.com)
 * [Ansible Best Practices: The Essentials](https://www.ansible.com/blog/ansible-best-practices-essentials)
 
-### License
+### ライセンス
 
-Red Hat, the Shadowman logo, Ansible, and Ansible Tower are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the United States and other countries.
+Red Hat, the Shadowman logo, Ansible, および Ansible Tower は Red Hat, Inc. もしくは米国、およびその他の国でのトレードマークおよび登録商標です。 
 
-All other parts of Ansible Lightbulb are made available under the terms of the [MIT License](LICENSE).
+その他のすべてのAnsible Lightbulbのコンテンツは、 [MIT License](LICENSE)に基づきます。
