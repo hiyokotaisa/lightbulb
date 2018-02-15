@@ -30,49 +30,49 @@ Ansible Lightbulbプロジェクトは、Ansibleの自己学習やハンズオ�
 
 ### Workshops
 
-The content of `workshops/` are a collection of Markdown documents and applicable resources for providing hands-on assignments for learning how to automate with Ansible.
+`workshops/` に含まれるコンテンツは、Markdownドキュメントと、どのようにAnsibleでの自動化するかを学ぶハンズオンに使うことができるリソースです。 
 
-Instructor notes on the execution and solution to all workshops can be found in `facilitator/solutions/`.
+インストラクターのノートと全ワークショップのソリューションは、`facilitator/solutions/`にあります。
 
 ## Presentation Decks
 
-The content of `decks/` are collection of presentation decks using the [reveal.js framework](http://lab.hakim.se/reveal-js/) for delivering instructor-led or hands-on instruction.
+`decks/` に含まれるコンテンツは[reveal.js framework](http://lab.hakim.se/reveal-js/) を使用した、インストラクターおよびハンズオン向けのスライド集です。
 
 ## Lab Provisioner
 
-Lightbulb provides a lab provisioner utility for creating a personal lab environment for each student. Currently only Amazon Web Services (AWS) is supported in us-east-1 and us-west-1 with the foundation to support other regions in place.
+Lightbulbは、個人的なラボ環境の構築のためにlab provisioner utilityを提供しています。現在はAmazon Web Services (AWS)のus-east-1 と us-west-1 リージョンのみをサポートしています。
 
-**Coming Soon.** Vagrant support for self-paced learning is planned. Legacy support from the previous generation of Lightbulb remains, but is in need of an overhaul.
+**【まもなく提供予定】** 自己学習用途向けにVagrantのサポートが計画中です。以前のバージョンのLightbulbに対してもレガシーなサポートは継続しますが、大規模改修が必要です。 
 
 ## Facilitator Guide
 
-`facilitator/` includes documentation on recommended ways Lightbulb content can be assembled and used for a wide range of purposes and scenarios.
+`facilitator/` には、さまざまな種類のシナリオや目的で構成された推奨ドキュメントが格納されています。
 
-If you are planning on using Lightbulb for some sort of informal training on automating with Ansible [this documentation](facilitator/README.md) should be your next stop.
+もしLightbulbをAnsibleの非公式なトレーニングなどで使用しようとしているのであれば、 [このドキュメント](facilitator/README.md) を次に読むことを推奨します。
 
-### Requirements
+### 必須要件
 
-True to its philosophy and The Ansible Way, Lightbulb has been developed so that using Lightbulb is as simple and low-overhead as possible. Requirements depend on the format and delivery of the Lightbulb content.
+Ansible Wayとその哲学に基づき、Lightbulbは可能な限りシンプルでオーバーヘッドがないように開発されています。要件はLightbulbのコンテンツとフォーマットによって異なります。
 
-* Modern HTML5 Standard Compliant Web Browser
-* A recent stable version of Python 2.7 and the latest stable version of the boto libraries.
-* The latest stable versions of Ansible.
-* A SSH client such as PuTTY or Mac OSX Terminal.
-* An AWS account or local Vagrant setup.
+* HTML5標準互換なモダンWebブラウザ
+* 最新安定版のPython 2.7と、最新安定版のboto libraries
+* 最新安定版のAnsible
+* PuTTY や Mac OSX TerminalなどのSSHクライアント
+* AWSアカウントもしくはローカルなVagrant環境
 
-### Assumed Knowledge
+### 最低限の知識
 
-For hands-on or self-paced training, students should have working knowledge of using SSH and command line shell (BASH). The ability to SSH from their personal laptop to a lab environment hosted in a public cloud can also be required based on the format and presentation of the context.
+ハンズオンもしくは自己学習の際には、学習者はSSHおよびshell(BASH)の知識があり、自身のノートPCからパブリッククラウドにたいしてのSSH接続ができることが望ましいです。
 
-For demos and instructor-led exercises, conceptual understanding of linux system admin, DevOps and distributed application architecture is all that is required.
+デモやインストラクターによるトレーニングの際には、Linuxシステム管理、DevOps、および分散型アプリケーションアーキテクチャに対する理解が必要です。
 
-### Reference
+### リファレンス
 
 * [Ansible Documentation](http://docs.ansible.com)
 * [Ansible Best Practices: The Essentials](https://www.ansible.com/blog/ansible-best-practices-essentials)
 
-### License
+### ライセンス
 
-Red Hat, the Shadowman logo, Ansible, and Ansible Tower are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the United States and other countries.
+Red Hat, the Shadowman logo, Ansible, および Ansible Tower は Red Hat, Inc. もしくは米国、およびその他の国でのトレードマークおよび登録商標です。 
 
-All other parts of Ansible Lightbulb are made available under the terms of the [MIT License](LICENSE).
+その他のすべてのAnsible Lightbulbのコンテンツは、 [MIT License](LICENSE)に基づきます。
