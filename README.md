@@ -1,18 +1,18 @@
 # Ansible Lightbulb
 
-The Ansible Lightbulb project is an effort to provide a content toolkit and educational reference for effectively communicating and teaching Ansible topics.
+Ansible Lightbulbプロジェクトは、Ansibleの教育およびコミュニケーションにおいて、効率的なツールキットおよびリファレンスを提供することを目的としています。
 
-Lightbulb began life as the content that supported Ansible's training program before it joined the Red Hat family focused solely on Linux server automation.
+Lightbulbは、Linuxサーバーの自動化に特化したAnsibleのトレーニングプログラムとして、AnsibleがRed Hatファミリーに参加する前に誕生しました。
 
-This content is now taking on a new life as a multi-purpose toolkit for effectively demonstrating Ansible's capabilities or providing informal workshop training in various forms -- instructor-led, hands-on or self-paced.
+現在では、Ansibleのデモンストレーションや多種多様な非公式トレーニング(インストラクターによる指導、ハンズオン、自己学習)向けの多目的なツールキットとして生まれ変わっています。
 
-Over time Lightbulb will be expanded to include advanced and developer topics in addition to expanding beyond linux server automation and into Windows and network automation.
+Lightbulbは、従来のLinuxサーバーの自動化だけに留まらず、Windowsやネットワークの自動化も含めた発展的で開発者向けのトピックも扱います。
 
-To support these objectives, the project provides a lab provisioner tool for creating an environment to present and work with Lightbulb content.
+これらの目的を達成するために、本プロジェクトではLightbulbのコンテンツを実行する環境構築のためのlab provisioner toolを提供しています。
 
-## What's Provided
+## 提供されるもの
 
-The Ansible Lightbulb project has been designed to be used as a toolkit and best practices reference for Ansible presentations ranging from demos thru self-paced learning thru hands-on workshops. Here you will find:
+Ansible Lightbulbプロジェクトは、Ansibleの自己学習やハンズオンでのデモまで、Ansibleのプレゼンテーション向けにツールキットとベストプラクティスを提供します。
 
 * Examples
 * Workshops
@@ -22,11 +22,11 @@ The Ansible Lightbulb project has been designed to be used as a toolkit and best
 
 ### Examples
 
-The content in `examples/` is the heart of what Lightbulb has to offer. They are complete Ansible playbooks that demonstrate the most fundamental features and most common use patterns.
+`examples/` に含まれるコンテンツは、Lightbulbの中心となるものです。代表的な機能および使用例のデモンストレーションを行う完結したAnsible Playbooksです。
 
-These examples are an excellent educational reference for communicating how Ansible works in a clear, focused and consistent manner using recommended best practices.
+これらはAnsibleの動作を説明、理解する教育向けのリファレンスとして非常に優れており、明解、集中的で一貫したベストプラクティスです。
 
-This content is a great source for canned demos or something you can walk-thru to illustrate automating with Ansible to a group. Some of the examples  serve as the solutions to the workshops.
+このコンテンツはAnsibleでの自動化の概要説明やデモの有用なソースとなります。いくつかの例はワークショップへのソリューションを提供します。
 
 ### Workshops
 
