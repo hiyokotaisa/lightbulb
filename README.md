@@ -1,6 +1,6 @@
 # Ansible Lightbulb
 
-Ansible Lightbulb プロジェクトは、Ansibleの教育およびコミュニケーションにおいて、効率的なツールキットおよびリファレンスを提供することを目的としています。
+Ansible Lightbulbプロジェクトは、Ansibleの教育およびコミュニケーションにおいて、効率的なツールキットおよびリファレンスを提供することを目的としています。
 
 Lightbulbは、Linuxサーバーの自動化に特化したAnsibleのトレーニングプログラムとして、AnsibleがRed Hatファミリーに参加する前に誕生しました。
 
@@ -10,9 +10,9 @@ Lightbulbは、従来のLinuxサーバーの自動化だけに留まらず、Win
 
 これらの目的を達成するために、本プロジェクトではLightbulbのコンテンツを実行する環境構築のためのlab provisioner toolを提供しています。
 
-## What's Provided
+## 提供されるもの
 
-The Ansible Lightbulb project has been designed to be used as a toolkit and best practices reference for Ansible presentations ranging from demos thru self-paced learning thru hands-on workshops. Here you will find:
+Ansible Lightbulbプロジェクトは、Ansibleの自己学習やハンズオンでのデモまで、Ansibleのプレゼンテーション向けにツールキットとベストプラクティスを提供します。
 
 * Examples
 * Workshops
@@ -22,11 +22,11 @@ The Ansible Lightbulb project has been designed to be used as a toolkit and best
 
 ### Examples
 
-The content in `examples/` is the heart of what Lightbulb has to offer. They are complete Ansible playbooks that demonstrate the most fundamental features and most common use patterns.
+`examples/` に含まれるコンテンツは、Lightbulbの中心となるものです。代表的な機能および使用例のデモンストレーションを行う完結したAnsible Playbooksです。
 
-These examples are an excellent educational reference for communicating how Ansible works in a clear, focused and consistent manner using recommended best practices.
+これらはAnsibleの動作を説明、理解する教育向けのリファレンスとして非常に優れており、明解、集中的で一貫したベストプラクティスです。
 
-This content is a great source for canned demos or something you can walk-thru to illustrate automating with Ansible to a group. Some of the examples  serve as the solutions to the workshops.
+このコンテンツはAnsibleでの自動化の概要説明やデモの有用なソースとなります。いくつかの例はワークショップへのソリューションを提供します。
 
 ### Workshops
 
