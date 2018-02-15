@@ -30,9 +30,9 @@ Ansible Lightbulbプロジェクトは、Ansibleの自己学習やハンズオ�
 
 ### Workshops
 
-The content of `workshops/` are a collection of Markdown documents and applicable resources for providing hands-on assignments for learning how to automate with Ansible.
+`workshops/` に含まれるコンテンツは、Markdownドキュメントと、どのようにAnsibleでの自動化するかを学ぶハンズオンに使うことができるリソースです。 
 
-Instructor notes on the execution and solution to all workshops can be found in `facilitator/solutions/`.
+インストラクターのノートと全ワークショップのソリューションは、`facilitator/solutions/`にあります。
 
 ## Presentation Decks
 
