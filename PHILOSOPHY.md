@@ -7,7 +7,7 @@ Ansibleが、独断的でないソフトウェアであるのは、その設計�
 
 **シンプルさを保ち、賢くやろうとしすぎないこと** トレーニングは教えるためのものであり、あなたの賢さを誇示するものではありません。シンプルさを保ち、実用性を保ちましょう。共通のシナリオに集中しましょう。
 
-*必要十分までやり、それ以上やりすぎるな** Ask yourself "what am I trying to communicate here?" and then do the least to demonstrate it within best practices norms. Sometimes that means using with a different example than the one you'd like. Using tool X might be cool to you or something you want to sell but if it has a lot dependencies, doesn't have the module support it needs or is a general pain to install it's not the right thing to use for teaching.
+**必要十分までやり、それ以上やりすぎない** Ask yourself "what am I trying to communicate here?" and then do the least to demonstrate it within best practices norms. Sometimes that means using with a different example than the one you'd like. Using tool X might be cool to you or something you want to sell but if it has a lot dependencies, doesn't have the module support it needs or is a general pain to install it's not the right thing to use for teaching.
 
 **進歩的であること** Don't try to show too much at once. Don't overwhelm the audience that they can't process what you're trying to teach them. Iterate and slowly reveal the full power of the tool as time allows. Teaching a man to fish so they never go hungry is an effective approach to teaching.
 
