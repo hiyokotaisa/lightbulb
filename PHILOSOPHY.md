@@ -13,4 +13,4 @@ Ansibleが、独断的でないソフトウェアであるのは、その設計�
 
 **一貫していること** When you're not consistent in your examples and style it confuses students, raises questions and takes away mental energy and time from the presentation to sort out the differences. Let them sort out different workflows and styles once they are familiar with what you are trying to teach them.
 
-**可読性を最適化し、常にベストプラクティスをデモンストレーションすること** This in some ways runs counter to "do just enough but no more" but consider that your audience is likely to take what you give them and copy it. Best you start them with good habits.
+**可読性を最適化し、常にベストプラクティスをデモンストレーションすること** これはある意味で「必要十分までやり、それ以上やりすぎない」という内容のカウンターになりますが、あなたの聴衆はあなたが与えたものをそのままコピーするということを考慮しましょう。最初からより良い習慣を身につけさせるのがベストです。
