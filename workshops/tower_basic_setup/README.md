@@ -1,6 +1,6 @@
 # Workshop: Ansible Tower Basic Setup
 
-## Topics Covered
+## 取り扱うトピック
 
 * Credentials
 * Inventory
@@ -10,15 +10,15 @@
 * Job Templates
 * Running a Job (Playbook)
 
-## What You Will Learn
+## 学習内容
 
-* Setting up a new instance of Tower with all the parts needed to run an existing Ansible playbook.
+* 新しいTowerインスタンスをAnsible Playbookでセットアップする
 
-## Requirements
+## 必須事項
 
-* A running instance of Ansible Tower with sufficient permissions to create credentials, inventory sources, projects etc.
+* 資格情報、インベントリソース、プロジェクトなどの作成のため、Towerインスタンスに適切なパーミッションが設定されていること
 
-## Before You Begin
+## はじめる前に
 
 Before doing this assignment you will need to perform a task you typical won't have to do when setting up Ansible Tower: manually enter your inventory. Commonly, Ansible Tower will be setup with one or more dynamic inventory sources such as AWS EC2 or vSphere or internal CMDB as a source of truth. Given the size and static nature of the Lightbulb lab environment, taking the time to setup and configure dynamic inventory is unnecessary.
 
